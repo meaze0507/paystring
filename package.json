@@ -49,7 +49,7 @@
     "knex-stringcase": "^1.4.1",
     "pg": "8.2.1",
     "prom-client": "^12.0.0",
-    "semver": "^7.3.2",
+    "semver": "^7.5.2",
     "typescript": "^3.9.5"
   },
   "devDependencies": {
